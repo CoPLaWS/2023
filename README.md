@@ -11,9 +11,17 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 
 We invite proposals for 20-minute talks for the workshop. Since there are many programming language researchers in Copenhagen, it is likely that we will get more talk proposals than can fit in a day. In that event, the talks will be selected by the organisers based on a light reviewing process. We will aim for diversity in topics and institutions represented. 
 
-Talk proposals consisting of a title and a one paragraph abstract can be submitted through easychair:
-…
-before …  
+Talk proposals should consist of a title and a one paragraph abstract. Information on how to submit will be available shortly. 
+
+**Deadline: 15 May 2023**
+
+
+### Registration
+
+Information on how to register will be available shortly. 
+
+**Deadline: not available yet**
+
 
 ### Organisers
 - Marco Carbone, Fritz Henglein, Hugo-Andres Lopez-Acosta, Rasmus Møgelberg and Morten Rhiger.
