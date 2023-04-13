@@ -1,6 +1,6 @@
 # The Copenhagen Programming Languages Workshop Series (CoPLaWS)
 
-CoPLaWS is a series of yearly workshops for programming language researchers working in the greater Copenhagen area (DTU, KU, ITU, RUC, but also open to researchers in industry and other institutions). The aim is to get together and learn about each others work. 
+CoPLaWS is a series of annual workshops for programming language researchers working in the greater Copenhagen area (DTU, KU, ITU, RUC, but also open to researchers in industry and other institutions). The aim is to get together and learn about each others work. 
 
 
 ## CoPLaWS'23 
