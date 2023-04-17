@@ -13,7 +13,8 @@ We invite proposals for 20-minute talks for the workshop. Since there are many p
 
 Talk proposals should consist of a title and a one paragraph abstract. Information on how to submit will be available shortly. 
 
-**Deadline: 15 May 2023**
+- **Deadline: 15 May 2023**
+- [**Submission Link**](https://easychair.org/conferences/?conf=coplaw23)
 
 
 ### Registration
