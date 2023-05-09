@@ -21,7 +21,7 @@ Talk proposals should consist of a title and a one paragraph abstract. Informati
 
 ### Registration
 
-Information on how to register will be available shortly. 
+Please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd1yH8wyXzpGgt9x8grbmKV8dWTipYqdbVzn5Pl8cp5H66p4w/viewform?usp=sf_link) for registering 
 
 **Deadline: not available yet**
 
