@@ -16,6 +16,8 @@ Talk proposals should consist of a title and a one paragraph abstract. Informati
 - **Deadline: 15 May 2023**
 - [**Submission Link**](https://easychair.org/conferences/?conf=coplaw23)
 
+### Invited Speaker
+[Thomas Hamelryck](https://thamelry.github.io)
 
 ### Registration
 
