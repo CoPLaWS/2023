@@ -21,7 +21,7 @@ Talk proposals should consist of a title and a one paragraph abstract. Informati
 
 ### Registration
 
-Please, fill [this form](broken link) for registering
+Please, fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd1yH8wyXzpGgt9x8grbmKV8dWTipYqdbVzn5Pl8cp5H66p4w/viewform?usp=sf_link) for registering
 
 **Deadline: 24 June 2023**
 
