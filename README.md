@@ -11,7 +11,7 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 
 We invite proposals for 20-minute talks for the workshop. Since there are many programming language researchers in Copenhagen, it is likely that we will get more talk proposals than can fit in a day. In that event, the talks will be selected by the organisers based on a light reviewing process. We will aim for diversity in topics and institutions represented. 
 
-Talk proposals should consist of a title and a one paragraph abstract. Information on how to submit will be available shortly. 
+Talk proposals should consist of a title and a one paragraph abstract. No need to submit any PDF. 
 
 - **Deadline: 15 May 2023**
 - [**Submission Link**](https://easychair.org/conferences/?conf=coplaw23)
