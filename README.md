@@ -11,18 +11,18 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 [Thomas Hamelryck](https://thamelry.github.io)
 
 ### Accepted Talks
-1	Rodrigo Laigner and Yongluan Zhou	Escaping the black-box paradigm: rethinking DBMS APIs for safer data-intensive applications	information
-2	Jørgen Villadsen	ProofBuddy: A Web Interface for the Isabelle Proof Assistant
-3	Raúl Pardo	Privugger: A Data Privacy Debugger
-4	Andrzej Filinski, Thomas P. Jensen and Ken Friis Larsen	PER-Hoare Logic for Information Flow Control
-5	Patrick Bahr and Rasmus Ejlers Møgelberg	Asynchronous Functional Reactive Programming with Modal Types
-6	Morten Rhiger	Type-Based Uncurrying for Unknown Function Calls
-7	Radoslaw Rowicki	Developing a smart contract language
-8	Fritz Henglein and Markus Krabbe Larsen	Combinatory adjoints and derivatives
-9	Dawit Tirore, Jesper Bengtson and Marco Carbone	A Sound and Complete Projection for Global Types
-10	Jens Kanstrup Larsen, Alceste Scalas, Philipp Haller and Roberto Guanciale	Safe and Secure Software-Defined Networks in P4
-11	Martin Elsman	Programming with Explicit Effects in ReML
-12	Torben Ægidius Mogensen	Reversible Array Programming
+- Rodrigo Laigner and Yongluan Zhou.	*Escaping the black-box paradigm: rethinking DBMS APIs for safer data-intensive applications*
+- Jørgen Villadsen	ProofBuddy. *A Web Interface for the Isabelle Proof Assistant*
+- Raúl Pardo. *Privugger: A Data Privacy Debugger*
+- Andrzej Filinski, Thomas P. Jensen and Ken Friis Larsen. *PER-Hoare Logic for Information Flow Control* 
+- Patrick Bahr and Rasmus Ejlers Møgelberg. *Asynchronous Functional Reactive Programming with Modal Types* 
+- Morten Rhiger. *Type-Based Uncurrying for Unknown Function Calls* 
+- Radoslaw Rowicki. *Developing a smart contract language* 
+- Fritz Henglein and Markus Krabbe Larsen. *Combinatory adjoints and derivatives*
+- Dawit Tirore, Jesper Bengtson and Marco Carbone. *A Sound and Complete Projection for Global Types* 
+- Jens Kanstrup Larsen, Alceste Scalas, Philipp Haller and Roberto Guanciale. *Safe and Secure Software-Defined Networks in P4* 
+- Martin Elsman. *Programming with Explicit Effects in ReML* 
+- Torben Ægidius Mogensen. *Reversible Array Programming* 
 
 ### Call for Talks 
 
