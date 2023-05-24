@@ -8,9 +8,11 @@ CoPLaWS is a series of annual workshops for programming language researchers wor
 The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, and will be a full day event including dinner (at the expense of the participants). 
 
 ### Invited Speaker
-[Thomas Hamelryck](https://thamelry.github.io) : Deep probabilistic programming: a new paradigm in machine learning
+[Thomas Hamelryck](https://thamelry.github.io) 
 
-Abstract: Deep probabilistic programming (DPP) combines the scope offered by deep learning with the principled treatment of uncertainty offered by Bayesian statistics. This is an important development in machine learning as overly confident predictions are disastrous for many machine learning / AI applications in engineering and biomedicine. I will give an overview of what deep probabilistic programming is about, provide some example applications from DIKU's probabilistic programming group, and point out how DPP can benefit from PL research.
+**Title:** Deep probabilistic programming: a new paradigm in machine learning
+
+**Abstract:** Deep probabilistic programming (DPP) combines the scope offered by deep learning with the principled treatment of uncertainty offered by Bayesian statistics. This is an important development in machine learning as overly confident predictions are disastrous for many machine learning / AI applications in engineering and biomedicine. I will give an overview of what deep probabilistic programming is about, provide some example applications from DIKU's probabilistic programming group, and point out how DPP can benefit from PL research.
 
 ### Accepted Talks
 - Rodrigo Laigner and Yongluan Zhou.	*Escaping the black-box paradigm: rethinking DBMS APIs for safer data-intensive applications*
