@@ -49,7 +49,7 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 
 16:30 **Break**
 
-16:50 Thomas Hamelryck: Deep probabilistic programming: a new paradigm in machine learning
+16:50 Thomas Hamelryck: *Deep probabilistic programming: a new paradigm in machine learning*
 
 17:40 **End of Scientific Programme**
 
