@@ -17,39 +17,39 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 ### Programme:
 9:00 Welcome
 
-9:10 Morten Rhiger. *Type-Based Uncurrying for Unknown Function Calls* 
+9:10 **Morten Rhiger**. *Type-Based Uncurrying for Unknown Function Calls* 
 
-9:35 Torben Ægidius Mogensen. *Reversible Array Programming* 
+9:35 **Torben Ægidius Mogensen**. *Reversible Array Programming* 
 
-10:00 Martin Elsman. *Programming with Explicit Effects in ReML* 
+10:00 **Martin Elsman**. *Programming with Explicit Effects in ReML* 
 
 10:25 **Coffee Break**
 
-10:55 Patrick Bahr and Rasmus Ejlers Møgelberg. *Asynchronous Functional Reactive Programming with Modal Types* 
+10:55 **Patrick Bahr** and Rasmus Ejlers Møgelberg. *Asynchronous Functional Reactive Programming with Modal Types* 
 
-11:20 Fritz Henglein and Markus Krabbe Larsen. *Combinatory adjoints and derivatives*
+11:20 Fritz Henglein and **Markus Krabbe Larsen**. *Combinatory adjoints and derivatives*
 
 11:45 Andrzej Filinski, Thomas P. Jensen and Ken Friis Larsen. *PER-Hoare Logic for Information Flow Control* 
 
 12:10 **Lunch**
 
-13:30 Radoslaw Rowicki. *Developing a smart contract language* 
+13:30 **Radoslaw Rowicki**. *Developing a smart contract language* 
 
-13:55 Dawit Tirore, Jesper Bengtson and Marco Carbone. *A Sound and Complete Projection for Global Types* 
+13:55 **Dawit Tirore**, Jesper Bengtson and Marco Carbone. *A Sound and Complete Projection for Global Types* 
 
 14:20 Jens Kanstrup Larsen, Alceste Scalas, Philipp Haller and Roberto Guanciale. *Safe and Secure Software-Defined Networks in P4* 
 
 14:45 **Coffee break**
 
-15:15 Raúl Pardo. *Privugger: A Data Privacy Debugger*
+15:15 **Raúl Pardo**, Willard Rafnsson, Christian W Probst, and Andrzej Wąsowski. *Privugger: A Data Privacy Debugger*
 
-15:40 Jørgen Villadsen	ProofBuddy. *A Web Interface for the Isabelle Proof Assistant*
+15:40 **Jørgen Villadsen**.	*ProofBuddy. A Web Interface for the Isabelle Proof Assistant*
 
-16:05 Rodrigo Laigner and Yongluan Zhou.	*Escaping the black-box paradigm: rethinking DBMS APIs for safer data-intensive applications*
+16:05 **Rodrigo Laigner** and Yongluan Zhou.	*Escaping the black-box paradigm: rethinking DBMS APIs for safer data-intensive applications*
 
 16:30 **Break**
 
-16:50 Thomas Hamelryck: *Deep probabilistic programming: a new paradigm in machine learning*
+16:50 [Invited Speaker] **Thomas Hamelryck**: *Deep probabilistic programming: a new paradigm in machine learning*
 
 17:40 **End of Scientific Programme**
 
