@@ -37,7 +37,7 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 
 13:55 **Dawit Tirore**, Jesper Bengtson and Marco Carbone. *A Sound and Complete Projection for Global Types* 
 
-14:20 Jens Kanstrup Larsen, Alceste Scalas, Philipp Haller and Roberto Guanciale. *Safe and Secure Software-Defined Networks in P4* 
+14:20 **Jens Kanstrup Larsen**, Alceste Scalas, Philipp Haller and Roberto Guanciale. *Safe and Secure Software-Defined Networks in P4* 
 
 14:45 **Coffee break**
 
