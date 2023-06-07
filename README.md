@@ -29,7 +29,7 @@ The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, an
 
 11:20 Fritz Henglein and **Markus Krabbe Larsen**. *Combinatory adjoints and derivatives*
 
-11:45 Andrzej Filinski, Thomas P. Jensen and Ken Friis Larsen. *PER-Hoare Logic for Information Flow Control* 
+11:45 **Andrzej Filinski**, Thomas P. Jensen and Ken Friis Larsen. *PER-Hoare Logic for Information Flow Control* 
 
 12:10 **Lunch**
 
