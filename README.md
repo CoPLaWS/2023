@@ -3,7 +3,7 @@
 CoPLaWS is a series of annual workshops for programming language researchers working in the greater Copenhagen area (DTU, KU, ITU, RUC, but also open to researchers in industry and other institutions). The aim is to get together and learn about each others work. 
 
 
-## CoPLaWS'23 
+## CoPLaW'23 
 
 The 2023 edition will take place at _ITU, auditorium 4, on Wednesday June 7_, and will be a full day event including dinner (at the expense of the participants). 
 
